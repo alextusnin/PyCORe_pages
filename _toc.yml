@@ -2,7 +2,8 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: _pages/intro
+  #root: _pages/intro
+root: /
 chapters:
 - file: _pages/install
 - file: _pages/quick_start
