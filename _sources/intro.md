@@ -7,3 +7,9 @@ organized and show a number of data analysis that constitute a minimal tool-box 
 
 ```{tableofcontents}
 ```
+
+```{Note}
+Currently, PyCORe and this website are under active development. Feel free to
+contact us via *aleksandr.tusnin@epfl.ch* or *alexey.tikan@epfl.ch* if you
+experience any issues or have any questions. We will be happy to help!
+```
