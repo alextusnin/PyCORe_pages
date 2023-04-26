@@ -1,0 +1,11 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: _pages/intro
+chapters:
+- file: _pages/install
+- file: _pages/quick_start
+- file: _pages/dimer
+  #- file: notebooks
+  #- file: markdown-notebooks
