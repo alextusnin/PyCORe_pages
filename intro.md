@@ -1,4 +1,4 @@
-# PyCORe, a fast tool for coupled-resonator microcombs simlation
+# PyCORe, a fast tool for coupled-resonator microcombs simulation
 
 Here we present our open-software solution for simulating arrays of coupled
 microresonators. We explain how to install the library and all the
