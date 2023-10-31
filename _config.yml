@@ -9,6 +9,7 @@ logo: 2D_soliton_plotly.png #logo.png
 # See https://jupyterbook.org/content/execute.html
 execute:
   execute_notebooks: cache
+  timeout: 100
   #  execute_notebooks: force
 sphinx:
   config:
